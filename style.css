@@ -1,5 +1,7 @@
 body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    word-wrap: normal;
+
 }
 a:visited{
     color:black
@@ -26,4 +28,8 @@ nav ul {
     justify-content: space-around ;
     align-items: center;
     margin: auto;
+}
+img{
+    float: left;
+    padding: 2%;
 }
